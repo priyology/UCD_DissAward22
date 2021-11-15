@@ -35,7 +35,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 - Must have an interest in an academic career in teaching / research
 
-- Be a United States Citizen, Permanent Resident, or qualify for California AB 540
+- Be a United States Citizen, Permanent Resident, or qualify for California AB 540 
 
 - Meet one of 6 criteria: more info available [here](https://grad.ucdavis.edu/annual-internal-fellowship-competition-continuing-graduate-students)
 
