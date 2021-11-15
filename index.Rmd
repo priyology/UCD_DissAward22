@@ -71,8 +71,6 @@ knitr::opts_chunk$set(echo = FALSE)
 
 - Financial / Academic Information
 
-- Academic Information
-
 - Recommendations
 
 - Signature
