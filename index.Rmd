@@ -3,10 +3,9 @@ title: "An Overview of the UC Davis Dissertation Year Fellowship (2022)"
 author: "Priya Shukla"
 date: "November 16, 2021"
 output:
-  slidy_presentation:
+  ioslides_presentation:
     incrementaL: true
-    theme: "journal"
-    highlight: "zenburn"
+
 ---
 
 ```{r setup, include=FALSE}
